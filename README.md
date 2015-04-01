@@ -4,9 +4,11 @@ Diego is Cloud Foundry's next generation runtime.  It is made up of a variety of
 
 ## Resources
 
-The [Diego Design Notes](https://github.com/cloudfoundry-incubator/diego-design-notes) present an overview of Diego, and links to the various Diego components.
+- The [Diego Design Notes](https://github.com/cloudfoundry-incubator/diego-design-notes) present an overview of Diego, and links to the various Diego components.
 
-[Diego-Release](https://github.com/cloudfoundry-incubator/diego-release) is the Diego BOSH release.
+- [Diego-Release](https://github.com/cloudfoundry-incubator/diego-release) is the Diego BOSH release.
+
+- Diego's Pivotal Tracker project is [here](https://www.pivotaltracker.com/n/projects/1003146)
 
 ## Bugs/Issues/Suggestions
 
